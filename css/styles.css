@@ -1,0 +1,49 @@
+body {
+  background-color: #CEE5D0;
+  background-position: center;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+
+  border-width: 5px;
+  width: 5%;
+  color: #FF7777;
+}
+h1
+{
+  color: #FF7878;
+  font-family: "papyrus";
+}
+h2
+{
+  color:#FF2442;
+  font-family: "lucida handwriting";
+}
+h3
+{
+  color: #FF2442;
+  font-family: "lucida handwriting";
+}
+h4
+{
+  color:#FF2442;
+  font-family: "lucida handwriting";
+}
+p
+{
+  color: #3D0000;
+  font-size: 20px;
+  font-family: "garamond";
+}
+li
+{
+  color:#161E54;
+  font-size: 25px;
+  font-family:"papyrus";
+}
+label
+{
+  font-family:garamond;
+}
